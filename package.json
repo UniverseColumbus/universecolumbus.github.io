@@ -1,6 +1,7 @@
 {
   "name": "universecolumbus.github.io",
   "version": "0.1.0",
+  "homepage": "https://universecolumbus.github.io/src/App.js",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
